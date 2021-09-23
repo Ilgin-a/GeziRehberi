@@ -1,0 +1,21 @@
+h1 {
+    color:blueviolet;
+}
+
+h3 {
+    color:#B266FF;
+}
+ol {
+    color: rgb(188, 125, 247);
+    font-weight: bold;
+    list-style-position: inside;
+}
+
+p {
+    color: rgb(70, 68, 68);
+    font-weight: lighter;
+}
+body {
+    background-color: rgba(95, 158, 160, 0.411);
+    text-align: center;
+}
